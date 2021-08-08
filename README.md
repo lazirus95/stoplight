@@ -4,7 +4,7 @@
 
 A simple app that displays an infinitely looping stoplight. Angular Material and Bootstrap were used for quick prototyping.
 
-Most of the functionality lives [here](src\app\components\stoplight\stoplight.component.ts).
+Most of the functionality lives [here](https://github.com/lazirus95/stoplight/blob/main/src/app/components/stoplight/stoplight.component.ts).
 
 ## Running Locally
 
